@@ -1,5 +1,7 @@
 # EnDesign205v1
 
-CoefCalcs finds the coeficients obtained using linear regression for every combination of features selected by the user. This is done so that ther program runs quickly!
+CoefCalcs: Runs least squares regression for every possible combination of features. The resulting coefficients are stored in a matrix to be used in "GUI.py". Precalculating the coefficients allows the GUI to run quicker.
 
-For GUI go to projFiles directory then read the readme in that directory to userstand everything in the file.
+DataExploration:
+
+For GUI, go to projFiles directory then read the readme in that directory to userstand everything in the file.
